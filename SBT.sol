@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.34;
+pragma solidity 0.8.34; 
 
 // این کدِ فلت شده است، کافیست در ریمیکس کپی کنید تا دیگر ارورِ اینپورت نگیرید
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v5.0.0/contracts/token/ERC721/ERC721.sol";
